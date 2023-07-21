@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nour Boumediene</h1>
 <h3 align="center">A passionate and a detail-oriented computer science engineering student from Algeria</h3>
 
-- 🔭 I’m currently working on **JavaScripts Projects**
+- 🔭 I’m currently working on **Kinship Verification using CNN project**
 
 - 🌱 I’m currently learning **Quantum Computing**
 
-- 👯 I’m looking to collaborate on [ByteCraft Website UI](Not available yet)
+- 👯 I’m looking to collaborate on [ByteCraft Website UI]
 
 - 🤝 I’m looking for help with **Quantum Computing Algorithms challenges and resources**
 
