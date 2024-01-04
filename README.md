@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nour Boumediene</h1>
-<h3 align="center">A passionate and a detail-oriented computer science engineering student from Algeria</h3>
+<h3 align="center">A passionate and a detail-oriented Data Science student from Algeria</h3>
 
 - 🔭 I’m currently working on **Kinship Verification using CNN project**
 
-- 🌱 I’m currently learning **Quantum Computing**
-
-- 👯 I’m looking to collaborate on [ByteCraft Website UI]
+- 🌱 I’m currently learning **DEEP LEARNING THEORIES**
 
 - 🤝 I’m looking for help with **Quantum Computing Algorithms challenges and resources**
 
 - 👨‍💻 My UI designs and work are available at my behance [https://www.behance.net/nourboumediene1](https://www.behance.net/nourboumediene1)
 
-- 💬 Ask me about **UI design and Android Mobile development**
+- 💬 Ask me about **Machine Learning/AI/UI**
 
 - 📫 How to reach me **n_boumediene@estin.dz**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AnHyKwZbBwPAIBPi3R0cEJgbvB9N3VaX/view?usp=sharing](https://drive.google.com/file/d/1AnHyKwZbBwPAIBPi3R0cEJgbvB9N3VaX/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1GGRAiG28HIfYR6otxBbvBZwjjchp43EB/view?usp=sharing](https://drive.google.com/file/d/1GGRAiG28HIfYR6otxBbvBZwjjchp43EB/view?usp=sharing)
 
 - ⚡ Fun fact **My favourite type of GitHub repository is a one with no forks**
 
