@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Quantum Computing Algorithms challenges and resources**
 
-- 👨‍💻 My UI designs and work are available at my behance [BEHANCE](https://www.behance.net/nourboumediene1)
+- 👨‍💻 My UI designs and work are available at my behance [BEHANCE](https://www.behance.net/nourboumediene1) 
 
 - 💬 Ask me about **Machine Learning/AI/UI**
 
