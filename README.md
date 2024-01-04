@@ -7,13 +7,13 @@
 
 - 🤝 I’m looking for help with **Quantum Computing Algorithms challenges and resources**
 
-- 👨‍💻 My UI designs and work are available at my behance [https://www.behance.net/nourboumediene1](https://www.behance.net/nourboumediene1)
+- 👨‍💻 My UI designs and work are available at my behance [BEHANCE](https://www.behance.net/nourboumediene1)
 
 - 💬 Ask me about **Machine Learning/AI/UI**
 
 - 📫 How to reach me **n_boumediene@estin.dz**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GGRAiG28HIfYR6otxBbvBZwjjchp43EB/view?usp=sharing](https://drive.google.com/file/d/1GGRAiG28HIfYR6otxBbvBZwjjchp43EB/view?usp=sharing)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1GGRAiG28HIfYR6otxBbvBZwjjchp43EB/view?usp=sharing)
 
 - ⚡ Fun fact **My favourite type of GitHub repository is a one with no forks**
 
