@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nour Boumediene</h1>
 <h3 align="center">A passionate and a detail-oriented Data Science student from Algeria</h3>
 
-- 🔭 I’m currently working on **Kinship Verification using CNN project**
+- 🔭 I’m currently working on **AI Robustness**
 
-- 🌱 I’m currently learning **DEEP LEARNING THEORIES**
+- 🌱 I’m currently learning **HOW NOT TO SELF SABOTAGE**
 
-- 🤝 I’m looking for help with **Quantum Computing Algorithms challenges and resources**
-
-- 👨‍💻 My UI designs and work are available at my behance [BEHANCE](https://www.behance.net/nourboumediene1) 
-
-- 💬 Ask me about **Machine Learning/AI/UI**
+- 💬 Ask me about **Machine Learning/DL/LLMs**
 
 - 📫 How to reach me **n_boumediene@estin.dz**
-
-- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1GGRAiG28HIfYR6otxBbvBZwjjchp43EB/view?usp=sharing)
 
 - ⚡ Fun fact **My favourite type of GitHub repository is a one with no forks**
 
